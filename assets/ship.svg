@@ -12,10 +12,10 @@
     </g>
   </g>
 
-  <use href="#wave" fill="#F5B700" opacity="0.45">
+  <use href="#wave" fill="#4FC3F7" opacity="0.55">
     <animateTransform attributeName="transform" type="translate" from="0 0" to="-100 0" dur="4s" repeatCount="indefinite"/>
   </use>
-  <use href="#wave" fill="#B91C1C" opacity="0.55" y="6">
+  <use href="#wave" fill="#1565C0" opacity="0.8" y="6">
     <animateTransform attributeName="transform" type="translate" from="-50 0" to="-150 0" dur="3s" repeatCount="indefinite"/>
   </use>
 </svg>

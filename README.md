@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B91C1C,100:F5B700&height=190&section=header&text=Hey,%20I'm%20Mobo%20%F0%9F%91%92&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Product%20Designer%20who%20vibe-codes&descSize=18&descAlignY=58" width="100%" alt="Hey, I'm Mobo. Product Designer who vibe-codes." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,50:1565C0,100:29B6F6&height=190&section=header&text=Hey,%20I'm%20Mobo%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Product%20Designer%20who%20vibe-codes&descSize=18&descAlignY=58" width="100%" alt="Hey, I'm Mobo. Product Designer who vibe-codes." />
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&pause=1400&color=D9480F&center=true&vCenter=true&width=620&lines=12%2B+years+designing+fintech+for+millions;Research+first%2C+data+always;Figma+%E2%86%92+Claude+Code+%E2%86%92+production;Progress+is+progress%2C+no+matter+how+small" alt="12+ years designing fintech for millions · Research first, data always · Figma to Claude Code to production · Progress is progress, no matter how small" /></a>
 
@@ -10,7 +10,7 @@
 
 </div>
 
-## 👒 Who's the captain
+## ☠️ Who's the captain
 
 <table>
 <tr>
@@ -98,6 +98,6 @@ Need a designer who does the research, draws the flows **and** opens the termina
 
 ### *Progress is progress, no matter how much it is.* 🏃‍♂️
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5B700,100:B91C1C&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:29B6F6,50:1565C0,100:0B3D91&height=110&section=footer" width="100%" alt="" />
 
 </div>
