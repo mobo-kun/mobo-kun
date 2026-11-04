@@ -1,117 +1,68 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=mobo-kun&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="Mobo profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B91C1C,100:F5B700&height=190&section=header&text=Hey,%20I'm%20Mobo%20%F0%9F%91%92&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Product%20Designer%20who%20vibe-codes&descSize=18&descAlignY=58" width="100%" alt="Hey, I'm Mobo. Product Designer who vibe-codes." />
 
-<br/>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&pause=1400&color=D9480F&center=true&vCenter=true&width=620&lines=12%2B+years+designing+fintech+for+millions;Research+first%2C+data+always;Figma+%E2%86%92+Claude+Code+%E2%86%92+production;Progress+is+progress%2C+no+matter+how+small" alt="12+ years designing fintech for millions · Research first, data always · Figma to Claude Code to production · Progress is progress, no matter how small" /></a>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Frontend%20or%20full-stack%20engineer;Building%20with%20Python%20%C2%B7%20CSS%20%C2%B7%20JavaScript;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
-
-<br/>
-
-<a href="https://github.com/mobo-kun"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/0_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="0 followers" />
+<a href="https://behdad.studio"><img src="https://img.shields.io/badge/behdad.studio-B91C1C?style=flat-square&logo=googlechrome&logoColor=white" alt="behdad.studio" /></a>
+<a href="https://linkedin.com/in/behdad-mor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/İzmir,_Türkiye-F5B700?style=flat-square&logo=googlemaps&logoColor=black" alt="Based in İzmir, Türkiye" />
 
 </div>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=mobo-kun&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+## 👒 Who's the captain
 
-## ⚡ whoami
+I'm **Behdad Morsalpoor**, Mobo for short. I'm a product designer and design lead living in İzmir, Türkiye, and I've spent the last 12+ years designing fintech and crypto products that millions of people use every day: trading platforms, payment consoles, sign-up and login flows, design systems.
 
-```typescript
-const mobo_kun: Developer = {
-  name:      "Mobo",
-  role:      "Frontend or full-stack engineer",
-  location:  "Building from the open web",
-  currently: "building in public",
-  stack:     ["Python", "CSS", "JavaScript", "Shell"],
-  mantra:    "Make useful things, then make them delightful 🚀",
-};
-```
+The straw hat in my avatar isn't an accident. I try to work the way Luffy sails: laugh a lot, trust the crew, and keep going toward the next island even when the map is half blank.
 
-> Frontend or full-stack engineer
-> 
-> **Collaborations welcome when they are meaningful 🤝**
+I studied computer engineering before I moved into design, so I'm comfortable in the room with engineers. I also host a design podcast, where I try to make big ideas from HCI and cognitive science feel simple.
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=mobo-kun&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+## 🧭 How I work
 
-## ⚔️ Tech Arsenal
+- **I design with AI, every day.** I go from Figma to a working prototype with Claude Code, and when it makes sense, all the way to code that ships.
+- **I research before I draw.** Interviews, usability tests and contextual inquiry on one side; funnels, events and A/B tests on the other. I want both halves of the story before I decide.
+- **I go looking for the real problem.** People come to me when something is broken and nobody is sure why. Once the problem is named properly, the solution usually gets easier.
+- **I sweat the edges.** Edge cases, technical feasibility and early conversations with engineering and QA, so nothing surprises us on release day.
 
-<div align="center">
+## 🏝️ Treasure so far
 
-<img src="https://skillicons.dev/icons?i=python%2Ccss%2Cjavascript%2Cbash&perline=8&theme=dark" alt="Tech stack" />
+- Took a login flow with a **52% failure rate** through three research-and-fix cycles at a crypto exchange with 11M+ users. Successful logins rose to **58%**.
+- Built and shipped **4 production micro-interactions** myself with Claude Code, alongside the engineers, inside a two-week deadline. No hand-off needed.
+- Designed the experience for a launch that brought **138,000 sign-ups in 24 hours**, with 80% of trades going through at peak load.
+- Designed a settlement console for **18,000 vendors** at Cafe Bazaar. A heuristic review of the payment gateway led to **25% more Direct Debit adoption**.
+- Cut home and listing page bounce rates from **50% to about 30%** for a US e-commerce client by reworking the information architecture.
 
-<br/><br/>
+More stories live on [behdad.studio](https://behdad.studio).
 
-**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
+## 🛠️ What's on the ship
 
-<img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&amp;labelColor=0d1117" alt="Python" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;labelColor=0d1117" alt="CSS" /> <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&amp;labelColor=0d1117" alt="JavaScript" /> <img src="https://img.shields.io/badge/Shell-89e051?style=for-the-badge&amp;labelColor=0d1117" alt="Shell" />
-
-</div>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=mobo-kun&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## 🌌 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**reporch**
-
-Report of Research: an agent skill for Claude Code and Codex that turns raw user-research material into an HTML report, a blog post and a PDF.
-
-`Python` · `0 stars`
-
-<a href="https://github.com/mobo-kun/reporch"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-</tr>
-</table>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=mobo-kun&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/section/stats?username=mobo-kun&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
-
-<br/>
-
-<img src="https://www.gitskins.com/api/section/heatmap?username=mobo-kun&theme=neon&style=aura" width="100%" alt="Contribution activity" />
-
-</div>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=mobo-kun&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=mobo-kun&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F284032746%3Fu%3D0f66ee78d0c33acaceddfe8a89c87ca1f79395bb%26v%3D4" alt="mobo-kun heatmap visual" />
+<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+<img src="https://img.shields.io/badge/PostHog-1D4AFF?style=for-the-badge&logo=posthog&logoColor=white" alt="PostHog" />
+<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
+<img src="https://img.shields.io/badge/WebEngage-2A2A72?style=for-the-badge" alt="WebEngage" />
+<img src="https://img.shields.io/badge/HTML·CSS·React-555555?style=for-the-badge&logo=react&logoColor=61DAFB" alt="HTML, CSS and React" />
 </p>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=mobo-kun&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+## 📦 On deck
 
-## 🏆 Beyond the Code
+**[reporch](https://github.com/mobo-kun/reporch)**: Report of Research. An agent skill for Claude Code and Codex that turns raw user-research material into an HTML report, a blog post and a PDF.
 
-* 🧠 **Profile signal:** 11 contributions in the last year
-* 🚀 **Builder energy:** 1 public repositories
-* ⭐ **Community signal:** 0 stars across featured work
-* 🗣️ **Open to:** interesting collaborations and useful products
+## 🔭 Next islands
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=mobo-kun&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+I'm currently exploring **gamification**, **product management** and **computational cognitive science**, and I'm finally learning **Python** and **JavaScript** properly.
+
+## 🏃 Off the clock
+
+I run. Some days it's a good run, some days it's a slow one, and I still count both. Off the road you'll find me watching anime, One Piece above everything else. Luffy is my captain, and Nico Robin is my research hero: she reads the history nobody else can read, which is pretty much what good research feels like.
 
 <div align="center">
 
-## 🤝 Let's Build Something Meaningful
+> **Progress is progress, no matter how much it is.** 🏃‍♂️
 
-I build useful software and enjoy turning ambitious ideas into working products.
-
-<a href="https://github.com/mobo-kun"><img src="https://img.shields.io/badge/Start_a_conversation-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Start a conversation" /></a>
-
-<br/><br/>
-
-***⭐ From [Mobo](https://github.com/mobo-kun) · built with code, AI & a little chaos 😈***
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5B700,100:B91C1C&height=110&section=footer" width="100%" alt="" />
 
 </div>
