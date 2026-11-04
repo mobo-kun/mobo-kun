@@ -12,74 +12,91 @@
 
 ## 👒 Who's the captain
 
-<img src="assets/wanted.svg" align="right" width="230" alt="Wanted poster for Mobo, product designer who vibe-codes" />
+<table>
+<tr>
+<td width="38%" valign="top">
+<img src="assets/wanted.svg" width="100%" alt="Wanted poster. Dead or alive: Mobo. Bounty: 11,000,000+ users served." />
+</td>
+<td valign="top">
 
-I'm **Behdad Morsalpoor**, Mobo for short. I'm a product designer and design lead living in İzmir, Türkiye, and I've spent the last 12+ years designing fintech and crypto products that millions of people use every day: trading platforms, payment consoles, sign-up and login flows, design systems.
+**Behdad Morsalpoor** · Mobo for short
 
-The straw hat in my avatar isn't an accident. I try to work the way Luffy sails: laugh a lot, trust the crew, and keep going toward the next island even when the map is half blank.
+- 🎨 **Product Designer & Design Lead**, 12+ years
+- 💰 Fintech & crypto products for **11M+ users**
+- 🤖 Designs with AI daily: **Figma → Claude Code → production**
+- 🔬 Research nerd, **qual + quant**, data-driven
+- 🎙️ Hosts a design podcast on HCI & cognitive science
+- 🧑‍💻 Computer engineer by degree, so engineers trust me
+- 📍 İzmir, Türkiye
 
-**Known side effects:** laughing at error messages, asking "but what does the data say?" at dinner, and opening Claude Code just to fix one tiny thing and leaving three hours later.
+> *Laugh a lot, trust the crew, keep sailing,<br/>even when the map is half blank.* 🏴‍☠️
 
-I studied computer engineering before I moved into design, so I'm comfortable in the room with engineers. I also host a design podcast, where I try to make big ideas from HCI and cognitive science feel simple.
+</td>
+</tr>
+</table>
 
 <p align="center"><img src="assets/ship.svg" width="100%" alt="" /></p>
 
 ## 🧭 How I work
 
-- **I design with AI, every day.** I go from Figma to a working prototype with Claude Code, and when it makes sense, all the way to code that ships.
-- **I research before I draw.** Interviews, usability tests and contextual inquiry on one side; funnels, events and A/B tests on the other. I want both halves of the story before I decide.
-- **I go looking for the real problem.** People come to me when something is broken and nobody is sure why. Once the problem is named properly, the solution usually gets easier.
-- **I sweat the edges.** Edge cases, technical feasibility and early conversations with engineering and QA, so nothing surprises us on release day.
-
-<p align="center"><img src="assets/ship.svg" width="100%" alt="" /></p>
+| Habit | What it looks like |
+|---|---|
+| 🤖 **AI-first** | From Figma to a working prototype with Claude Code, sometimes all the way to shipped code |
+| 🔬 **Research first** | Interviews & usability tests **+** funnels, events & A/B tests. Both halves before deciding |
+| 🧩 **Problem finder** | People bring me what's broken when nobody knows why. Name it well, and the fix gets easy |
+| 🧱 **Edge-case hunter** | Feasibility and edge cases sorted with engineering & QA before release day |
 
 ## 🏝️ Treasure so far
 
-- Took a login flow with a **52% failure rate** through three research-and-fix cycles at a crypto exchange with 11M+ users. Successful logins rose to **58%**.
-- Built and shipped **4 production micro-interactions** myself with Claude Code, alongside the engineers, inside a two-week deadline. No hand-off needed.
-- Designed the experience for a launch that brought **138,000 sign-ups in 24 hours**, with 80% of trades going through at peak load.
-- Designed a settlement console for **18,000 vendors** at Cafe Bazaar. A heuristic review of the payment gateway led to **25% more Direct Debit adoption**.
-- Cut home and listing page bounce rates from **50% to about 30%** for a US e-commerce client by reworking the information architecture.
+| 🏆 Result | ⚓ The story |
+|---|---|
+| **48% → 58%** login success | A login flow failing 52% of the time, fixed in 3 research cycles |
+| **4** micro-interactions shipped | Coded myself with Claude Code, next to the engineers, in 2 weeks |
+| **138K** sign-ups in 24h | Launch-day experience that kept 80% of trades going at peak load |
+| **+25%** Direct Debit adoption | Payment gateway review for **18K vendors** at Cafe Bazaar |
+| **50% → 30%** bounce rate | Reworked information architecture for a US e-commerce client |
 
-More stories live on [behdad.studio](https://behdad.studio).
+<sub>More stories on <a href="https://behdad.studio">behdad.studio</a> →</sub>
+
+<p align="center"><img src="assets/ship.svg" width="100%" alt="" /></p>
 
 ## 🛠️ What's on the ship
 
-<p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-<img src="https://img.shields.io/badge/PostHog-1D4AFF?style=for-the-badge&logo=posthog&logoColor=white" alt="PostHog" />
-<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
-<img src="https://img.shields.io/badge/WebEngage-2A2A72?style=for-the-badge" alt="WebEngage" />
-<img src="https://img.shields.io/badge/HTML·CSS·React-555555?style=for-the-badge&logo=react&logoColor=61DAFB" alt="HTML, CSS and React" />
-</p>
-
-## 📦 On deck
-
-**[reporch](https://github.com/mobo-kun/reporch)**: Report of Research. An agent skill for Claude Code and Codex that turns raw user-research material into an HTML report, a blog post and a PDF.
+| Area | Tools |
+|---|---|
+| **Design** | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" /> |
+| **Build** | <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" /> <img src="https://img.shields.io/badge/HTML·CSS·React-555555?style=flat-square&logo=react&logoColor=61DAFB" alt="HTML, CSS and React" /> |
+| **Data** | <img src="https://img.shields.io/badge/PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white" alt="PostHog" /> <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="Google Analytics" /> <img src="https://img.shields.io/badge/WebEngage-2A2A72?style=flat-square" alt="WebEngage" /> |
 
 ## 🍇 My devil fruit
 
-The **Vibe-Vibe Fruit**. It lets me turn Figma frames into working code before the sprint planning is over. Known weakness: like every fruit user, I can't swim, which in my case means Python and JavaScript. I'm taking lessons.
+> **The Vibe-Vibe Fruit.** Turns Figma frames into working code before sprint planning ends.
+> **Weakness:** can't swim (in Python and JavaScript). Lessons in progress. 🏊
 
 ## 🔭 Next islands
 
-I'm currently exploring **gamification**, **product management** and **computational cognitive science**, and I'm finally learning **Python** and **JavaScript** properly, so the swimming lessons are going fine.
+`🎮 Gamification` · `📋 Product management` · `🧠 Computational cognitive science` · `🐍 Python` · `⚡ JavaScript`
+
+## 📦 On deck
+
+**[reporch](https://github.com/mobo-kun/reporch)**: Report of Research. An agent skill for Claude Code and Codex that turns raw user-research material into an **HTML report**, a **blog post** and a **PDF**.
 
 <p align="center"><img src="assets/ship.svg" width="100%" alt="" /></p>
 
 ## 🏃 Off the clock
 
-I run. Some days it's a good run, some days it's a slow one, and I still count both. Off the road you'll find me watching anime, One Piece above everything else. Luffy is my captain, and Nico Robin is my research hero: she reads the history nobody else can read, which is pretty much what good research feels like.
+- 🏃 **Runner.** Good run or slow run, both count.
+- 🏴‍☠️ **One Piece fan.** Luffy is my captain. Nico Robin is my research hero: she reads the history nobody else can.
+- 😂 **Known side effects:** laughing at error messages, asking *"but what does the data say?"* at dinner.
 
-## 🏴‍☠️ Joining the crew
+## 🤝 Join the crew
 
-Building something people rely on, and need a designer who does the research, draws the flows and opens the terminal? Find me on [LinkedIn](https://linkedin.com/in/behdad-mor) or [behdad.studio](https://behdad.studio). Snacks for the crew are appreciated.
+Need a designer who does the research, draws the flows **and** opens the terminal?
+👉 [LinkedIn](https://linkedin.com/in/behdad-mor) · [behdad.studio](https://behdad.studio) · snacks for the crew appreciated 🍖
 
 <div align="center">
 
-> **Progress is progress, no matter how much it is.** 🏃‍♂️
+### *Progress is progress, no matter how much it is.* 🏃‍♂️
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5B700,100:B91C1C&height=110&section=footer" width="100%" alt="" />
 
