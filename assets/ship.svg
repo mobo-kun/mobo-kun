@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 90" width="800" height="90" role="img" aria-label="A small ship with a straw-hat sail sailing across the waves">
+  <defs>
+    <path id="wave" d="M0 60 Q25 50 50 60 T100 60 T150 60 T200 60 T250 60 T300 60 T350 60 T400 60 T450 60 T500 60 T550 60 T600 60 T650 60 T700 60 T750 60 T800 60 T850 60 T900 60 T950 60 T1000 60 T1050 60 T1100 60 T1150 60 T1200 60 V90 H0 Z"/>
+  </defs>
+
+  <!-- ship, sailing left to right and bobbing -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="-90 0" to="860 0" dur="18s" begin="-7s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-4 40 55; 4 40 55; -4 40 55" dur="2.4s" repeatCount="indefinite"/>
+      <path d="M8 50 L72 50 L62 64 L18 64 Z" fill="#7A4B25"/>
+      <rect x="38" y="14" width="3" height="36" fill="#4A2C17"/>
+      <path d="M41 16 L66 28 L41 42 Z" fill="#F6E7C1" stroke="#8B5E34" stroke-width="1.5"/>
+      <ellipse cx="51" cy="31" rx="9" ry="2.4" fill="#E9B949"/>
+      <path d="M46 31 C46 25 56 25 56 31 Z" fill="#F2C75C"/>
+      <rect x="46" y="29.5" width="10" height="1.6" fill="#B91C1C"/>
+      <path d="M41 10 L52 13 L41 16 Z" fill="#B91C1C"/>
+    </g>
+  </g>
+
+  <!-- two wave layers drifting at different speeds -->
+  <use href="#wave" fill="#F5B700" opacity="0.45">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-100 0" dur="4s" repeatCount="indefinite"/>
+  </use>
+  <use href="#wave" fill="#B91C1C" opacity="0.55" y="8">
+    <animateTransform attributeName="transform" type="translate" from="-50 0" to="-150 0" dur="3s" repeatCount="indefinite"/>
+  </use>
+</svg>

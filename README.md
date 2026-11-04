@@ -12,11 +12,17 @@
 
 ## 👒 Who's the captain
 
+<img src="assets/wanted.svg" align="right" width="230" alt="Wanted poster for Mobo, product designer who vibe-codes" />
+
 I'm **Behdad Morsalpoor**, Mobo for short. I'm a product designer and design lead living in İzmir, Türkiye, and I've spent the last 12+ years designing fintech and crypto products that millions of people use every day: trading platforms, payment consoles, sign-up and login flows, design systems.
 
 The straw hat in my avatar isn't an accident. I try to work the way Luffy sails: laugh a lot, trust the crew, and keep going toward the next island even when the map is half blank.
 
+**Known side effects:** laughing at error messages, asking "but what does the data say?" at dinner, and opening Claude Code just to fix one tiny thing and leaving three hours later.
+
 I studied computer engineering before I moved into design, so I'm comfortable in the room with engineers. I also host a design podcast, where I try to make big ideas from HCI and cognitive science feel simple.
+
+<p align="center"><img src="assets/ship.svg" width="100%" alt="" /></p>
 
 ## 🧭 How I work
 
@@ -24,6 +30,8 @@ I studied computer engineering before I moved into design, so I'm comfortable in
 - **I research before I draw.** Interviews, usability tests and contextual inquiry on one side; funnels, events and A/B tests on the other. I want both halves of the story before I decide.
 - **I go looking for the real problem.** People come to me when something is broken and nobody is sure why. Once the problem is named properly, the solution usually gets easier.
 - **I sweat the edges.** Edge cases, technical feasibility and early conversations with engineering and QA, so nothing surprises us on release day.
+
+<p align="center"><img src="assets/ship.svg" width="100%" alt="" /></p>
 
 ## 🏝️ Treasure so far
 
@@ -51,13 +59,23 @@ More stories live on [behdad.studio](https://behdad.studio).
 
 **[reporch](https://github.com/mobo-kun/reporch)**: Report of Research. An agent skill for Claude Code and Codex that turns raw user-research material into an HTML report, a blog post and a PDF.
 
+## 🍇 My devil fruit
+
+The **Vibe-Vibe Fruit**. It lets me turn Figma frames into working code before the sprint planning is over. Known weakness: like every fruit user, I can't swim, which in my case means Python and JavaScript. I'm taking lessons.
+
 ## 🔭 Next islands
 
-I'm currently exploring **gamification**, **product management** and **computational cognitive science**, and I'm finally learning **Python** and **JavaScript** properly.
+I'm currently exploring **gamification**, **product management** and **computational cognitive science**, and I'm finally learning **Python** and **JavaScript** properly, so the swimming lessons are going fine.
+
+<p align="center"><img src="assets/ship.svg" width="100%" alt="" /></p>
 
 ## 🏃 Off the clock
 
 I run. Some days it's a good run, some days it's a slow one, and I still count both. Off the road you'll find me watching anime, One Piece above everything else. Luffy is my captain, and Nico Robin is my research hero: she reads the history nobody else can read, which is pretty much what good research feels like.
+
+## 🏴‍☠️ Joining the crew
+
+Building something people rely on, and need a designer who does the research, draws the flows and opens the terminal? Find me on [LinkedIn](https://linkedin.com/in/behdad-mor) or [behdad.studio](https://behdad.studio). Snacks for the crew are appreciated.
 
 <div align="center">
 
