@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" width="1200" height="370" role="img" aria-label="Treasure map of results: login success rose from 48% to 58% after 3 research cycles; 138K sign-ups in 24 hours with 80% of trades going through at peak load; 4 micro-interactions coded and shipped by me with Claude Code in 2 weeks; plus 25% Direct Debit adoption for 18K vendors at Cafe Bazaar; bounce rate cut from 50% to 30% by reworking the information architecture.">
+  <defs>
+    <radialGradient id="p" cx="50%" cy="50%" r="75%">
+      <stop offset="0" stop-color="#F7EDE2"/><stop offset="0.8" stop-color="#EEDDCB"/><stop offset="1" stop-color="#DCC2AA"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="370" rx="18" fill="url(#p)"/>
+  <rect x="12" y="12" width="1176" height="346" rx="12" fill="none" stroke="#4A2D29" stroke-width="2" stroke-dasharray="2 6" opacity="0.5"/>
+
+  <!-- the route -->
+  <path d="M36 230 C60 210 50 200 66 200 M194 200 C240 200 240 240 286 240 M414 240 C460 240 460 200 506 200 M634 200 C680 200 680 240 726 240 M854 240 C900 240 900 200 946 200 M1074 200 C1100 200 1110 230 1112 250"
+        fill="none" stroke="#4A2D29" stroke-width="3" stroke-dasharray="10 9" stroke-linecap="round" opacity="0.7">
+    <animate attributeName="stroke-dashoffset" from="0" to="-38" dur="2.5s" repeatCount="indefinite"/>
+  </path>
+
+  <g font-family="Georgia, 'Times New Roman', serif">
+  <g>
+    <ellipse cx="130" cy="206" rx="76" ry="20" fill="#9FC9E8" opacity="0.6"/>
+    <ellipse cx="130" cy="200" rx="64" ry="17" fill="#E9C98A" stroke="#4A2D29" stroke-width="2"/>
+    <path d="M100 194 q30 -20 60 0 z" fill="#7CB342" stroke="#4A2D29" stroke-width="2"/>
+    <path d="M148 190 q2 -16 -4 -28 M144 162 q-14 -2 -22 7 M144 162 q13 -7 24 0 M144 162 q-2 -10 -12 -12" fill="none" stroke="#4A2D29" stroke-width="2.4" stroke-linecap="round"/>
+    <text x="130" y="130" text-anchor="middle" font-size="40" font-weight="bold" fill="#B91C1C">48→58%</text>
+    <text x="130" y="246" text-anchor="middle" font-size="18" font-weight="bold" fill="#4A2D29">login success</text>
+    <text x="130" y="268" text-anchor="middle" font-size="15" font-style="italic" fill="#6B4A3A">3 research cycles</text>
+  </g>
+  <g>
+    <ellipse cx="350" cy="246" rx="76" ry="20" fill="#9FC9E8" opacity="0.6"/>
+    <ellipse cx="350" cy="240" rx="64" ry="17" fill="#E9C98A" stroke="#4A2D29" stroke-width="2"/>
+    <path d="M320 234 q30 -20 60 0 z" fill="#7CB342" stroke="#4A2D29" stroke-width="2"/>
+    <path d="M368 230 q2 -16 -4 -28 M364 202 q-14 -2 -22 7 M364 202 q13 -7 24 0 M364 202 q-2 -10 -12 -12" fill="none" stroke="#4A2D29" stroke-width="2.4" stroke-linecap="round"/>
+    <text x="350" y="170" text-anchor="middle" font-size="40" font-weight="bold" fill="#B91C1C">138K</text>
+    <text x="350" y="286" text-anchor="middle" font-size="18" font-weight="bold" fill="#4A2D29">sign-ups in 24h</text>
+    <text x="350" y="308" text-anchor="middle" font-size="15" font-style="italic" fill="#6B4A3A">80% trades at peak</text>
+  </g>
+  <g>
+    <ellipse cx="570" cy="206" rx="76" ry="20" fill="#9FC9E8" opacity="0.6"/>
+    <ellipse cx="570" cy="200" rx="64" ry="17" fill="#E9C98A" stroke="#4A2D29" stroke-width="2"/>
+    <path d="M540 194 q30 -20 60 0 z" fill="#7CB342" stroke="#4A2D29" stroke-width="2"/>
+    <path d="M588 190 q2 -16 -4 -28 M584 162 q-14 -2 -22 7 M584 162 q13 -7 24 0 M584 162 q-2 -10 -12 -12" fill="none" stroke="#4A2D29" stroke-width="2.4" stroke-linecap="round"/>
+    <text x="570" y="130" text-anchor="middle" font-size="40" font-weight="bold" fill="#B91C1C">4</text>
+    <text x="570" y="246" text-anchor="middle" font-size="18" font-weight="bold" fill="#4A2D29">micro-interactions</text>
+    <text x="570" y="268" text-anchor="middle" font-size="15" font-style="italic" fill="#6B4A3A">coded &amp; shipped by me</text>
+  </g>
+  <g>
+    <ellipse cx="790" cy="246" rx="76" ry="20" fill="#9FC9E8" opacity="0.6"/>
+    <ellipse cx="790" cy="240" rx="64" ry="17" fill="#E9C98A" stroke="#4A2D29" stroke-width="2"/>
+    <path d="M760 234 q30 -20 60 0 z" fill="#7CB342" stroke="#4A2D29" stroke-width="2"/>
+    <path d="M808 230 q2 -16 -4 -28 M804 202 q-14 -2 -22 7 M804 202 q13 -7 24 0 M804 202 q-2 -10 -12 -12" fill="none" stroke="#4A2D29" stroke-width="2.4" stroke-linecap="round"/>
+    <text x="790" y="170" text-anchor="middle" font-size="40" font-weight="bold" fill="#B91C1C">+25%</text>
+    <text x="790" y="286" text-anchor="middle" font-size="18" font-weight="bold" fill="#4A2D29">Direct Debit adoption</text>
+    <text x="790" y="308" text-anchor="middle" font-size="15" font-style="italic" fill="#6B4A3A">18K vendors</text>
+  </g>
+  <g>
+    <ellipse cx="1010" cy="206" rx="76" ry="20" fill="#9FC9E8" opacity="0.6"/>
+    <ellipse cx="1010" cy="200" rx="64" ry="17" fill="#E9C98A" stroke="#4A2D29" stroke-width="2"/>
+    <path d="M980 194 q30 -20 60 0 z" fill="#7CB342" stroke="#4A2D29" stroke-width="2"/>
+    <path d="M1028 190 q2 -16 -4 -28 M1024 162 q-14 -2 -22 7 M1024 162 q13 -7 24 0 M1024 162 q-2 -10 -12 -12" fill="none" stroke="#4A2D29" stroke-width="2.4" stroke-linecap="round"/>
+    <text x="1010" y="130" text-anchor="middle" font-size="40" font-weight="bold" fill="#B91C1C">50→30%</text>
+    <text x="1010" y="246" text-anchor="middle" font-size="18" font-weight="bold" fill="#4A2D29">bounce rate</text>
+    <text x="1010" y="268" text-anchor="middle" font-size="15" font-style="italic" fill="#6B4A3A">reworked IA</text>
+  </g>
+    <!-- X marks the next treasure -->
+    <g transform="translate(1126 262)" stroke="#B91C1C" stroke-width="7" stroke-linecap="round">
+      <line x1="-16" y1="-16" x2="16" y2="16"/><line x1="16" y1="-16" x2="-16" y2="16"/>
+    </g>
+    <text x="1126" y="310" text-anchor="middle" font-size="15" font-style="italic" fill="#6B4A3A">next: yours?</text>
+  </g>
+
+  <!-- compass -->
+  <g transform="translate(1130 72)" fill="#4A2D29">
+    <circle r="34" fill="none" stroke="#4A2D29" stroke-width="2" opacity="0.6"/>
+    <path d="M0 -30 L7 0 L0 30 L-7 0 Z"/><path d="M-30 0 L0 -6 L30 0 L0 6 Z" opacity="0.5"/>
+    <text y="-40" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold">N</text>
+  </g>
+</svg>

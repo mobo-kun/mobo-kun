@@ -1,35 +1,28 @@
-<div align="center">
+<p align="center"><img src="assets/hero.svg" width="100%" alt="Hey, I'm Mobo. Product Designer who vibe-codes. Behdad Morsalpoor, İzmir, Türkiye." /></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,50:1565C0,100:29B6F6&height=190&section=header&text=Hey,%20I'm%20Mobo%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Product%20Designer%20who%20vibe-codes&descSize=18&descAlignY=58" width="100%" alt="Hey, I'm Mobo. Product Designer who vibe-codes." />
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=1400&color=2F81F7&center=true&vCenter=true&width=560&lines=Captain+of+a+very+small+crew+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;Will+design+for+meat+%F0%9F%8D%96;Laughs+at+error+messages;Next+stop%3A+the+Grand+Line" alt="Captain of a very small crew · Will design for meat · Laughs at error messages · Next stop: the Grand Line" /></a>
+</p>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&pause=1400&color=D9480F&center=true&vCenter=true&width=620&lines=12%2B+years+designing+fintech+for+millions;Research+first%2C+data+always;Figma+%E2%86%92+Claude+Code+%E2%86%92+production;Progress+is+progress%2C+no+matter+how+small" alt="12+ years designing fintech for millions · Research first, data always · Figma to Claude Code to production · Progress is progress, no matter how small" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/behdad-mor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://behdad.studio"><img src="https://img.shields.io/badge/behdad.studio-B91C1C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="behdad.studio" /></a>
+</p>
 
-<a href="https://behdad.studio"><img src="https://img.shields.io/badge/behdad.studio-B91C1C?style=flat-square&logo=googlechrome&logoColor=white" alt="behdad.studio" /></a>
-<a href="https://linkedin.com/in/behdad-mor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<img src="https://img.shields.io/badge/İzmir,_Türkiye-F5B700?style=flat-square&logo=googlemaps&logoColor=black" alt="Based in İzmir, Türkiye" />
-
-</div>
-
-## ☠️ Who's the captain
+## <img src="assets/op/straw-hat.webp" width="28" alt="" /> Who's the captain
 
 <table>
 <tr>
-<td width="38%" valign="top">
-<img src="assets/wanted.svg" width="100%" alt="Wanted poster. Dead or alive: Mobo. Bounty: 11,000,000+ users served." />
-</td>
+<td width="40%" valign="top"><img src="assets/wanted.svg" width="100%" alt="Wanted poster. Dead or alive: Mobo. Bounty: 11,000,000+ users served." /></td>
 <td valign="top">
 
-**Behdad Morsalpoor** · Mobo for short
+- 🎨 **Product Designer & Design Lead** · 12+ years
+- 💰 **Fintech & crypto**: trading, payments, onboarding
+- 🎙️ Hosts a **design podcast** on HCI & cognitive science
+- 🧑‍💻 **Computer engineer** by degree, fluent in engineer
+- 🏃 Runner, and a **One Piece** fan to the bone
 
-- 🎨 **Product Designer & Design Lead**, 12+ years
-- 💰 Fintech & crypto products for **11M+ users**
-- 🤖 Designs with AI daily: **Figma → Claude Code → production**
-- 🔬 Research nerd, **qual + quant**, data-driven
-- 🎙️ Hosts a design podcast on HCI & cognitive science
-- 🧑‍💻 Computer engineer by degree, so engineers trust me
-- 📍 İzmir, Türkiye
-
-> *Laugh a lot, trust the crew, keep sailing,<br/>even when the map is half blank.* 🏴‍☠️
+> *Laugh a lot, trust the crew,<br/>keep sailing even when the map is half blank.*
 
 </td>
 </tr>
@@ -37,67 +30,104 @@
 
 <p align="center"><img src="assets/ship.svg" width="100%" alt="" /></p>
 
-## 🧭 How I work
+## <img src="assets/op/fist-x.webp" width="28" alt="" /> My crew, my habits
 
-| Habit | What it looks like |
-|---|---|
-| 🤖 **AI-first** | From Figma to a working prototype with Claude Code, sometimes all the way to shipped code |
-| 🔬 **Research first** | Interviews & usability tests **+** funnels, events & A/B tests. Both halves before deciding |
-| 🧩 **Problem finder** | People bring me what's broken when nobody knows why. Name it well, and the fix gets easy |
-| 🧱 **Edge-case hunter** | Feasibility and edge cases sorted with engineering & QA before release day |
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="assets/op/luffy-shiny.webp" width="64" alt="Luffy" /><br/>
+<b>The Captain · AI-first</b><br/>
+<sub>I design with AI every day and ship real code, not just mockups.</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<img src="assets/op/robin-peace.webp" width="64" alt="Robin" /><br/>
+<b>The Archaeologist · Research first</b><br/>
+<sub>Interviews and usability tests, plus funnels and A/B tests.</sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<img src="assets/op/zoro-confused.webp" width="64" alt="Zoro" /><br/>
+<b>The Swordsman · Problem finder</b><br/>
+<sub>Zoro gets lost. I find the real problem nobody could name.</sub>
+</td>
+<td align="center" valign="top">
+<img src="assets/op/usopp-drool.webp" width="64" alt="Usopp" /><br/>
+<b>The Sniper · Edge-case worrier</b><br/>
+<sub>I worry about every edge case with engineering and QA, early.</sub>
+</td>
+</tr>
+</table>
 
-## 🏝️ Treasure so far
+## <img src="assets/op/meat.webp" width="28" alt="" /> Treasure so far
 
-| 🏆 Result | ⚓ The story |
-|---|---|
-| **48% → 58%** login success | A login flow failing 52% of the time, fixed in 3 research cycles |
-| **4** micro-interactions shipped | Coded myself with Claude Code, next to the engineers, in 2 weeks |
-| **138K** sign-ups in 24h | Launch-day experience that kept 80% of trades going at peak load |
-| **+25%** Direct Debit adoption | Payment gateway review for **18K vendors** at Cafe Bazaar |
-| **50% → 30%** bounce rate | Reworked information architecture for a US e-commerce client |
+<p align="center"><img src="assets/treasure-map.svg" width="100%" alt="Treasure map of results: login success rose from 48% to 58% after 3 research cycles; 138K sign-ups in 24 hours with 80% of trades going through at peak load; 4 micro-interactions coded and shipped by me with Claude Code in 2 weeks; plus 25% Direct Debit adoption for 18K vendors at Cafe Bazaar; bounce rate cut from 50% to 30% by reworking the information architecture." /></p>
 
-<sub>More stories on <a href="https://behdad.studio">behdad.studio</a> →</sub>
+<p align="center"><sub>Full logbook on <a href="https://behdad.studio">behdad.studio</a></sub></p>
 
 <p align="center"><img src="assets/ship.svg" width="100%" alt="" /></p>
 
-## 🛠️ What's on the ship
+## 🧰 Ship's inventory
 
-| Area | Tools |
-|---|---|
+| Deck | Tools |
+|:--|:--|
 | **Design** | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" /> |
 | **Build** | <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" /> <img src="https://img.shields.io/badge/HTML·CSS·React-555555?style=flat-square&logo=react&logoColor=61DAFB" alt="HTML, CSS and React" /> |
 | **Data** | <img src="https://img.shields.io/badge/PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white" alt="PostHog" /> <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="Google Analytics" /> <img src="https://img.shields.io/badge/WebEngage-2A2A72?style=flat-square" alt="WebEngage" /> |
 
-## 🍇 My devil fruit
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> **The Vibe-Vibe Fruit.** Turns Figma frames into working code before sprint planning ends.
-> **Weakness:** can't swim (in Python and JavaScript). Lessons in progress. 🏊
+### <img src="assets/op/luffy-tongue.webp" width="28" alt="" /> Devil fruit
 
-## 🔭 Next islands
+**The Vibe-Vibe Fruit.** Figma frames turn into working code.<br/>
+**Weakness:** can't swim in Python or JavaScript yet.
 
-`🎮 Gamification` · `📋 Product management` · `🧠 Computational cognitive science` · `🐍 Python` · `⚡ JavaScript`
+</td>
+<td width="50%" valign="top">
 
-## 📦 On deck
+### <img src="assets/op/zoro-sleep.webp" width="28" alt="" /> Next islands
 
-**[reporch](https://github.com/mobo-kun/reporch)**: Report of Research. An agent skill for Claude Code and Codex that turns raw user-research material into an **HTML report**, a **blog post** and a **PDF**.
+`🎮 Gamification` `📋 Product management`<br/>
+`🧠 Computational cognitive science` `🐍 Python` `⚡ JS`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### <img src="assets/op/robin-shades.webp" width="28" alt="" /> On deck: [reporch](https://github.com/mobo-kun/reporch)
+
+An agent skill for Claude Code and Codex that turns raw user research into an **HTML report**, a **blog post** and a **PDF**.
+
+</td>
+</tr>
+</table>
+
+## <img src="assets/op/ghost.webp" width="28" alt="" /> Known side effects
+
+- Laughing at error messages
+- Asking *"but what does the data say?"* at dinner
+- Counting a slow run as a good run
 
 <p align="center"><img src="assets/ship.svg" width="100%" alt="" /></p>
 
-## 🏃 Off the clock
+<h2 align="center">Join the crew</h2>
 
-- 🏃 **Runner.** Good run or slow run, both count.
-- 🏴‍☠️ **One Piece fan.** Luffy is my captain. Nico Robin is my research hero: she reads the history nobody else can.
-- 😂 **Known side effects:** laughing at error messages, asking *"but what does the data say?"* at dinner.
+<p align="center">
+<img src="assets/op/fist-luffy.webp" width="56" alt="Luffy" />
+<img src="assets/op/fist-zoro.webp" width="56" alt="Zoro" />
+<img src="assets/op/fist-nami.webp" width="56" alt="Nami" />
+<img src="assets/op/fist-usopp.webp" width="56" alt="Usopp" />
+<img src="assets/op/fist-sanji.webp" width="56" alt="Sanji" />
+<img src="assets/op/fist-chopper.webp" width="56" alt="Chopper" />
+<img src="assets/op/fist-x.webp" width="56" alt="Your fist, with the X" />
+</p>
 
-## 🤝 Join the crew
+<p align="center">Need a designer who researches, draws the flows <b>and</b> opens the terminal?<br/>
+<a href="https://linkedin.com/in/behdad-mor"><b>Raise your arm on LinkedIn →</b></a> &nbsp;·&nbsp; <a href="https://behdad.studio">behdad.studio</a></p>
 
-Need a designer who does the research, draws the flows **and** opens the terminal?
-👉 [LinkedIn](https://linkedin.com/in/behdad-mor) · [behdad.studio](https://behdad.studio) · snacks for the crew appreciated 🍖
+<p align="center"><img src="assets/op/jolly-roger.webp" width="64" alt="Straw Hat Jolly Roger" /></p>
 
-<div align="center">
-
-### *Progress is progress, no matter how much it is.* 🏃‍♂️
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:29B6F6,50:1565C0,100:0B3D91&height=110&section=footer" width="100%" alt="" />
-
-</div>
+<h3 align="center"><i>Progress is progress, no matter how much it is.</i></h3>
